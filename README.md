@@ -10,7 +10,7 @@ a) Wen uses a circle arc detection method based upon the Hough transform. They a
 b) Waranusat  proposed a system to detect moving objects using a k-NN classifier over the motorcyclist’s head to classify helmet. These models were proposed based on statistical information of images and had a limitation to the level of accuracy that could be achieved. <br/>
 4.For more Updates<br/>
 [Helmet Detection using Machine Learning and Automatic License Plate Recognition ](https://www.irjet.net/archives/V6/i12/IRJET-V6I1214.pdf)<br/>
-[Detection of helmets on motorcyclists](file:///C:/Users/ACER/Downloads/HelmetDetections_MTAP_2017.pdf)<br/>
+[Detection of helmets on motorcyclists](https://www.iith.ac.in/~ckm/pdfs/conf_8.pdf)<br/>
 [Detecting of helmet use with deep learning](https://arxiv.org/pdf/1910.13232.pdf)
 
 
