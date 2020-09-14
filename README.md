@@ -1,6 +1,6 @@
 # Helmet_Detection
 Safety Helemet Detection<br/>                                                                                                                                                     
-1.State of art can be achieved by using Yolov3.
+1.State of art can be achieved by using Yolov3.<br/>
 2.Some Dataset Links that are publically available...<br/>
 a) GDUT-Hardhat Wearing Detection Dataset:[ Click Here](https://github.com/wujixiu/helmet-detection)<br/>
 b) Hard Hat Datset at makeml:[ Click Here](https://makeml.app/datasets/hard-hat-workers)<br/>
