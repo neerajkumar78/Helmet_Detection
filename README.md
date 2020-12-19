@@ -15,7 +15,8 @@ b) Automatic Hardhat Wearing Detection: [Click Here](https://github.com/wujixiu/
 6. For more Knoweledge...<br/><br/>
 a) Helmet Detection using Machine Learning and Automatic License Plate Recognition: [Click Here](https://www.irjet.net/archives/V6/i12/IRJET-V6I1214.pdf)<br/>
 b) Detection of helmets on motorcyclists: [Click Here](https://www.iith.ac.in/~ckm/pdfs/conf_8.pdf)<br/>
-c) Detecting of helmet use with deep learning: [Click Here](https://arxiv.org/pdf/1910.13232.pdf)
+c) Detecting of helmet use with deep learning: [Click Here](https://arxiv.org/pdf/1910.13232.pdf)<br/>
+![img](https://github.com/neerajkumar78/Helmet_Detection/blob/master/description_images/img7.png)
 
 
 
